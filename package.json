@@ -12,7 +12,7 @@
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "element-ui": "^2.13.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html2canvas": "^1.0.0-rc.5",
     "jspdf": "^1.5.3",
     "mockjs": "^1.1.0",
